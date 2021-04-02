@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wuyou\\source\\repos\\SUTUREMONPROJECTRED\\SUTUREMONPROJECTRED.csproj",
-      "projectName": "SUTUREMONPROJECTRED",
-      "projectPath": "C:\\Users\\wuyou\\source\\repos\\SUTUREMONPROJECTRED\\SUTUREMONPROJECTRED.csproj",
+      "projectUniqueName": "D:\\Code\\SutureMonsterProject\\SutureMonsterProject.csproj",
+      "projectName": "SutureMonsterProject",
+      "projectPath": "D:\\Code\\SutureMonsterProject\\SutureMonsterProject.csproj",
       "packagesPath": "C:\\Users\\wuyou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wuyou\\source\\repos\\SUTUREMONPROJECTRED\\obj\\",
+      "outputPath": "D:\\Code\\SutureMonsterProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wuyou\\AppData\\Roaming\\NuGet\\NuGet.Config",

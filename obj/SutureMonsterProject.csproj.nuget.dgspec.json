@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\SutureMonsterProject\\SUTUREMONPROJECTRED.csproj": {}
+    "D:\\Code\\SutureMonsterProject\\SutureMonsterProject.csproj": {}
   },
   "projects": {
-    "D:\\Code\\SutureMonsterProject\\SUTUREMONPROJECTRED.csproj": {
+    "D:\\Code\\SutureMonsterProject\\SutureMonsterProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\SutureMonsterProject\\SUTUREMONPROJECTRED.csproj",
-        "projectName": "SUTUREMONPROJECTRED",
-        "projectPath": "D:\\Code\\SutureMonsterProject\\SUTUREMONPROJECTRED.csproj",
+        "projectUniqueName": "D:\\Code\\SutureMonsterProject\\SutureMonsterProject.csproj",
+        "projectName": "SutureMonsterProject",
+        "projectPath": "D:\\Code\\SutureMonsterProject\\SutureMonsterProject.csproj",
         "packagesPath": "C:\\Users\\wuyou\\.nuget\\packages\\",
         "outputPath": "D:\\Code\\SutureMonsterProject\\obj\\",
         "projectStyle": "PackageReference",
